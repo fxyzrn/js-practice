@@ -1,1 +1,1 @@
-# js-practice
+This is a repo for js exercises
